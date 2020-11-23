@@ -1,0 +1,37 @@
+#######################################
+# Syntax Coloring Map For M5_RTC_Module
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+Begin	KEYWORD2
+setLocalTimeToRTC	KEYWORD2
+getBatteryStatus	KEYWORD2
+getBatteryVoltage	KEYWORD2
+
+#######################################
+# Instances (KEYWORD2)
+#######################################
+
+eeprom0	KEYWORD2
+eeprom1	KEYWORD2
+rtc	KEYWORD2
+adc	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+REF_VOLTAGE	LITERAL1
+
+#######################################
+# Library (KEYWORD3)
+#######################################
+
+M5_RTC_Module	KEYWORD3
