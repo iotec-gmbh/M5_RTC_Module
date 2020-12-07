@@ -75,7 +75,7 @@ void loop(){
 You can [set up an interrupt event](https://github.com/constiko/RV-3028_C7-Arduino_Library#alarm-interrupt-functions) on the RTC.
 With the help of the solder jumper LJ1 on the M5-RTC-Mod board you can choose which IO of the ESP32 should act as an interrupt pin.
 
-The following IOs can be choosed as an interrupt pin:
+The following IOs can be chosen as an interrupt pin:
 
 |  |  | | |  |  |  |
 |--|--|-|-|--|--|--|
