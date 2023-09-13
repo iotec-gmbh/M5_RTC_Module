@@ -1,13 +1,13 @@
 # M5-RTC-Module
 
-The M5-RTC-Mod is a real time clock specifically designed for the popular ESP32 based [M5-Stack](https://m5stack.com/). It features the [RV-3028-C7 RTC from Micro Crystal](https://www.microcrystal.com/en/products/real-time-clock-rtc/rv-3028-c7/).
+The M5-RTC-Mod is a real time clock specifically designed for the popular ESP32 based [M5-Stack](https://m5stack.com/). It features the [RV-3028-C7 RTC from Micro Crystal](https://www.microcrystal.com/en/products/real-time-clock-rtc-modules/rv-3028-c7).
 
 ![M5-RTC-Module upside](/extras/M5-RTC-Mod_up.jpg)
 ![M5-RTC-Module downside](/extras/M5-RTC-Mod_down.jpg)
 
 ## Features
 
-+ **high precision** [RTC](https://www.microcrystal.com/en/products/real-time-clock-rtc/rv-3028-c7/) with ±1ppm deviation per year (±32 seconds per year)
++ **high precision** [RTC](https://www.microcrystal.com/en/products/real-time-clock-rtc-modules/rv-3028-c7) with ±1ppm deviation per year (±32 seconds per year)
 + extremely **long battery runtime** with a CR2032 lithium cell (at least 10 Years, considering the operating life of the battery)
 + fully compatible to the [M5Stack Core](https://m5stack.com/collections/m5-core)
 + two external [EEPROMs](https://www.st.com/en/memories/m24256-bw.html)
